@@ -3,7 +3,8 @@ Responsible for making requests of craigslist
 and returning strings
 '''
 import urllib
-from posting import Posting
+import re
+from posting import Posting, Postings
 from xml.dom.minidom import parse, parseString
 
 def __query(city):
@@ -45,10 +46,24 @@ def readQuery(city):
         title = item.getElementsByTagName('title')[0].childNodes[0].wholeText
         postingDate = item.getElementsByTagName('dc:date')[0].childNodes[0].wholeText
         permalink = item.getElementsByTagName('link')[0].childNodes[0].wholeText
+        #Get the reply to field
+        #Currently commented out, due to speed issues.
+        #TODO: Change this to work
+        if (False):
+            permalinkPage = urllib.urlopen(permalink)
+            permalinkHTML = permalinkPage.read()
+            permalinkPage.close()
+            match = re.search('(mailto:)([^?]+)',permalinkHTML)
+            if match:
+                mailToLink = match.group(2)
+            else:
+                mailToLink = "emailnotfound"
+        else:
+            mailToLink = "emailnofound"
         shortDescription = item.getElementsByTagName('description')[0].childNodes[0].wholeText
-        postings.append(Posting(city,title,permalink,shortDescription,postingDate))
-        print postings[i].__repr__()
-    return domItems
+        postings.append(Posting(city,title,permalink,shortDescription,postingDate,mailToLink))
+    postingsObject = Postings(postings)
+    return postingsObject
 
 if __name__ == '__main__':
     items = readQuery('test')

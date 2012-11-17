@@ -1,0 +1,6 @@
+import request
+import posting
+
+if __name__ == '__main__':
+    rawPostings = request.readQuery('test') 
+    posting.ParsedPostings.parseAndPickle(rawPostings,'outfilename')
