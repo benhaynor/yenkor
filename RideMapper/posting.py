@@ -1,5 +1,15 @@
 import datetime
 import pickle
+import re
+import operator
+from collections import Counter
+
+def keyWithMaxVal(d):
+     """ a) create a list of the dict's keys and values; 
+         b) return the key with the max value"""  
+     v=list(d.values())
+     k=list(d.keys())
+     return k[v.index(max(v))]
 
 class Postings:
     '''
@@ -29,13 +39,19 @@ class Posting:
         shortDescription: the incomplete body of the post available from the xml feed
         postingDate: a string representation of the 
         '''
-        self.title = title
+        self.title = title.lower()
         self.postingFrom = postingFrom
         self.permalink = permalink
-        self.shortDescription = shortDescription
+        self.shortDescription = shortDescription.lower()
         self.postingDate = postingDate
         self.parsedPostingDate = Posting.__parseDate(postingDate)
         self.mailToLink = mailToLink
+        self.wordBag = Counter()
+        for word in self.title.split(' '):
+            self.wordBag[word] += 1
+        for word in self.shortDescription.split(' '):
+            self.wordBag[word] += 1
+
 
     @staticmethod
     def __parseDate(postingDate):
@@ -46,26 +62,59 @@ class Posting:
         minute = int(postingDate[14:16])
         second = int(postingDate[17:19])
         return datetime.datetime(year,month,day,hour,minute,second)
-                      
+
     def guessLeavingFrom(self):
         '''
         @Retrun: a (string) best guess of where this ride is leaving from.
         Using my best NLP.
         '''
-        return "hey"
+        title = self.title.lower()
+        match = re.search('(from )([^ ]*)',title)
+        if match:
+            return match.group(2)
+        else:
+            return self.postingFrom
 
     def guessGoingTo(self):
         '''
         @Retrun: a (string) best guess of where this ride is going to.
         Using my best NLP
         '''
-        return "hey"
+        title = self.title.lower()
+        match = re.search('(to )([^ ]*)',title)
+        if match:
+            return match.group(2)
+        else:
+            return "hey"
     
-    def guessLeavingDate(self):
+    def guessLeavingOn(self):
         '''
         @Return: a date object best guess of when this ride is leaving.
         '''
-        return "hey"
+        todayDay = self.parsedPostingDate.weekday()
+        todayDate = self.parsedPostingDate.timetuple()[2]
+        if ((self.wordBag['today'] + self.wordBag['tomorrow']) > 0):
+            return todayDate if self.wordBag['today'] >= self.wordBag['tomorrow'] else todayDate + 1
+        days = ['mon', 'tues','wed','thur','fri','satur','sun']
+        months = ['jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec']
+        dayCounts = {day: 0 for day in days}
+        dayNumber = {day: i for (i, day) in enumerate(days)}
+        
+        for day in days:
+            dayMatches = re.findall(day,self.title.lower())
+            if dayMatches:
+                dayCounts[day] += len(dayMatches)
+            bodyMatches = re.findall(day,self.shortDescription.lower())
+            if bodyMatches:
+                dayCounts[day] += len(bodyMatches)
+        maxDay = keyWithMaxVal(dayCounts)
+        maxCounts = dayCounts[maxDay]
+        if maxCounts > 0:
+            bestGuessOfDay = str(todayDate + ((dayNumber[maxDay] - todayDay + 7) % 7))
+            print 'best guess: %s' % bestGuessOfDay
+            return bestGuessOfDay
+        else:
+            return str(todayDate)
         
     def guessPassenger(self):
         '''
@@ -91,6 +140,7 @@ class ParsedPostings:
         outStr = ''
         for p in self.parsedPostings:
             outStr += p.__str__() + '\n'
+        return outStr
     
     def __init__(self, parsedPostings):
         '''
@@ -112,8 +162,49 @@ class ParsedPostings:
         inFile.close()
         return p
     
-    def 
+    def testGoingTo(self):
+        '''
+        return fraction correct
+        '''
+        correct = 0
+        incorrect = 0
+        for pp in self.parsedPostings:
+            if pp.checkGoingTo() is not None:
+                if pp.checkGoingTo() == 1:
+                    correct += 1
+                else:
+                    incorrect += 1
+        return float(correct) / float(correct + incorrect)
 
+    def testLeavingFrom(self):
+        '''
+        return fraction correct
+        '''
+        correct = 0
+        incorrect = 0
+        for pp in self.parsedPostings:
+            if pp.checkLeavingFrom() is not None:
+                if pp.checkLeavingFrom() == 1:
+                    correct += 1
+                else:
+                    incorrect += 1
+        return float(correct) / float(correct + incorrect)
+
+    def testLeavingOn(self):
+        '''
+        return fraction correct
+        '''
+        correct = 0
+        incorrect = 0
+        for pp in self.parsedPostings:
+            check = pp.checkLeavingOn()
+            if check is not None:
+                if check == 1:
+                    correct += 1
+                else:
+                    incorrect += 1
+        return float(correct) / float(correct + incorrect)
+                
     @staticmethod
     def parseAndPickle(postingsObject,outFileName, maxnumber):
         '''
@@ -164,9 +255,10 @@ class ParsedPosting:
         invalid Postring
         @rtype: int
         '''
+
         if self.goingTo == "invalid":
-            return -1
-        else if (self.posting.guessGoingTo() == self.goingTo):
+            return None
+        elif (self.posting.guessGoingTo() == self.goingTo):
             return 1
         else: 
             return 0
@@ -180,23 +272,8 @@ class ParsedPosting:
         @rtype: int
         '''
         if self.goingTo == "invalid":
-            return -1
-        else if (self.posting.guessLeavingFrom() == self.leavingFrom):
-            return 1
-        else: 
-            return 0
-
-    def checkLeavingFrom(self):
-        '''
-        Checks whether the best guess goingTo agrees with the
-        human parsed version of going to.  
-        @return: an int: 1 is a match. 0 is a miss.  -1 for an 
-        invalid Postring
-        @rtype: int
-        '''
-        if self.goingTo == "invalid":
-            return -1
-        else if (self.posting.guessLeavingFrom() == self.leavingFrom):
+            return None
+        elif (self.posting.guessLeavingFrom() == self.leavingFrom):
             return 1
         else: 
             return 0
@@ -209,12 +286,15 @@ class ParsedPosting:
         invalid Postring
         @rtype: int
         '''
-        if self.posting.goingTo == "invalid":
-            return -1
-        else if (self.posting.guessLeavingOn() == self.leavingOn):
-            return 1
+        if self.goingTo == "invalid":
+            return None
         else: 
-            return 0
+            print "value: %s" % self.leavingOn.timetuple()[2]
+            if (int(self.posting.guessLeavingOn()) == int(self.leavingOn.timetuple()[2])):
+            #DELETE ME
+                return 1
+            else: 
+                return 0
 
     def checkPassenger(self):
         '''
@@ -224,9 +304,9 @@ class ParsedPosting:
         invalid Postring
         @rtype: int
         '''
-        if self.posting.goingTo == "invalid":
-            return -1
-        else if (self.posting.guessDriver() == self.driver):
+        if self.goingTo == "invalid":
+            return None
+        elif (self.posting.guessDriver() == self.driver):
             return 1
         else: 
             return 0
@@ -257,3 +337,4 @@ class ParsedPosting:
         #TODO: Actually parse the leavingOn field
         leavingOn = posting.parsedPostingDate 
         return ParsedPosting(posting,leavingFrom,goingTo,leavingOn)
+
