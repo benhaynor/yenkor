@@ -1,0 +1,1404 @@
+<?xml version="1.0" ?><rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:admin="http://webns.net/mvcb/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ev="http://purl.org/rss/1.0/modules/event/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/">
+
+<channel rdf:about="http://minneapolis.craigslist.org/rid/index.rss">
+<title>craigslist | rideshare in minneapolis / st paul</title>
+<link>http://minneapolis.craigslist.org/rid/</link>
+<description/>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://minneapolis.craigslist.org/rid/index.rss</dc:source>
+<dc:title>craigslist | rideshare in minneapolis / st paul</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2012-11-13T16:05:24-06:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/ram/rid/3407620129.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3407280595.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3407270583.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/ram/rid/3407241490.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3407232499.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3407163610.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3406593540.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/ram/rid/3406538345.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/wsh/rid/3380680729.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3405992048.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/ank/rid/3405943748.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3405881730.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3405859693.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3405830212.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3405807277.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3405790033.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3405719428.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3395869522.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/ram/rid/3399117188.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/wsh/rid/3405292794.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/ank/rid/3405206258.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3393696733.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/dak/rid/3404559877.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3404472490.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3404067903.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/ram/rid/3404065329.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3396369266.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/ram/rid/3395376936.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3403970588.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3403946183.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/ram/rid/3370358268.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3374572558.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/wsh/rid/3403359980.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3403171813.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/wsh/rid/3403155486.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/ram/rid/3402696457.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3402693360.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3402464900.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/dak/rid/3401011812.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/wsh/rid/3400697490.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3400515403.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3400279034.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/dak/rid/3399879006.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3399638899.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3399334719.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3398778205.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3390541590.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/ram/rid/3398486772.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3398412652.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3365295942.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/wsh/rid/3397824541.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/ram/rid/3397806059.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/wsh/rid/3390567852.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3397628133.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3383692952.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/dak/rid/3383861181.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3397213083.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3396984330.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/wsh/rid/3396802477.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/ram/rid/3389546345.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/ram/rid/3332693353.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3395693855.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3395357511.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3395356537.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3395288787.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3395177491.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/ram/rid/3395073557.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3331478174.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3394273823.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/dak/rid/3394207509.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3393985736.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3393966313.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3343953635.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3393551152.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3393085258.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/wsh/rid/3392852451.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/csw/rid/3392007385.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3391979430.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3390844060.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/wsh/rid/3379185923.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3389916088.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/ram/rid/3389601466.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3389518716.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3389211242.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/wsh/rid/3389006017.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3388921528.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3388674334.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/ram/rid/3388568649.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3387849756.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3387537242.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3337074603.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3384658502.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3361490785.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3384505512.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3384260906.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3384072853.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/ram/rid/3383949296.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3383931698.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/wsh/rid/3383394505.html"/>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/rid/3382338497.html"/>
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://minneapolis.craigslist.org/ram/rid/3407620129.html">
+<title><![CDATA[Driving from St Paul to Kansas City on Friday (metro area)]]></title>
+<link>http://minneapolis.craigslist.org/ram/rid/3407620129.html</link>
+<description><![CDATA[Will be driving I35 from north side of the cities the way down to north side of Kansas City, MO. Probably leave around 8am so get to KC mid-afternoon. Can arrange to pick up/drop off withing reasonable distance or meet along the way. If interested re [...]]]></description>
+<dc:date>2012-11-13T15:47:04-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/ram/rid/3407620129.html</dc:source>
+<dc:title><![CDATA[Driving from St Paul to Kansas City on Friday (metro area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-13T15:47:04-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3407280595.html">
+<title><![CDATA[Mpls to Ann Arbor (12/5- 8 am) (Uptown)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3407280595.html</link>
+<description><![CDATA[Hello, 
+I am taking the Megabus to New York, but have to stop in Ann Arbor first to catch the bus. Sadly the bus comes at 8 am. If you wanted to come Tuesday night, that could work as well, I just do not want to take anymore time off of work per se.  [...]]]></description>
+<dc:date>2012-11-13T13:40:01-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3407280595.html</dc:source>
+<dc:title><![CDATA[Mpls to Ann Arbor (12/5- 8 am) (Uptown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-13T13:40:01-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3407270583.html">
+<title><![CDATA[Need a ride to northern cali or close (Mm)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3407270583.html</link>
+<description><![CDATA[I'm looking for a rideshare to northern Cali. If your going to Reno or utah that works well. I have a valid dl, willing to share driving and split gas. Can leave after Thursday 15. 
+Thanks!!]]></description>
+<dc:date>2012-11-13T13:36:16-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3407270583.html</dc:source>
+<dc:title><![CDATA[Need a ride to northern cali or close (Mm)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-13T13:36:16-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/ram/rid/3407241490.html">
+<title><![CDATA[You Need Money? Well I Need Daily Rides (Vadnais Heights)]]></title>
+<link>http://minneapolis.craigslist.org/ram/rid/3407241490.html</link>
+<description><![CDATA[I'm in need of a ride to work from the north end of Vadnais Heights around Cty Rd F & Mcenemy to St. Paul around Little Canada Rd & 35E Mon - Fri. I would need to be picked up around 8:10 from home and picked up from work at 4:30. I'm able to pay dai [...]]]></description>
+<dc:date>2012-11-13T13:25:30-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/ram/rid/3407241490.html</dc:source>
+<dc:title><![CDATA[You Need Money? Well I Need Daily Rides (Vadnais Heights)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-13T13:25:30-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3407232499.html">
+<title><![CDATA[Epic "WARMTH OF THE SUN" Road Trip (Minneapolis)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3407232499.html</link>
+<description><![CDATA[We are a group of experienced travelers (featuring artists and organic farmers) planning a slow meandering trip south along Highway 61 and the Mississippi River to New Orleans soon after Thanksgiving. After Mardi Gras (2.12.13) in NOLA (and/or Cajun  [...]]]></description>
+<dc:date>2012-11-13T13:21:29-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3407232499.html</dc:source>
+<dc:title><![CDATA[Epic "WARMTH OF THE SUN" Road Trip (Minneapolis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-13T13:21:29-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3407163610.html">
+<title><![CDATA[Ride Needed Mankato - Eagen (Mankato)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3407163610.html</link>
+<description><![CDATA[I am looking for a ride from Mankato to Minneapolis on Wednesday, November 14 (tomorrow) anytime after 2p. I want to get to Eagen but anywhere nearby works for me. If can share gas and drive. Contact me via email or phone 267-648-2741. My name is Bhu [...]]]></description>
+<dc:date>2012-11-13T12:56:43-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3407163610.html</dc:source>
+<dc:title><![CDATA[Ride Needed Mankato - Eagen (Mankato)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-13T12:56:43-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3406593540.html">
+<title><![CDATA[Need ride tomorrow before 2 pm to pick up tv and computer! (Minneapolis)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3406593540.html</link>
+<description><![CDATA[I am in need of a ride tomorrow weds i need to pick up a tv in eden prairie and a computer in brooklyn park.Then going back home to minneapolis south minneapolis after that.If there is someone who can help out please send contact info thank you!]]></description>
+<dc:date>2012-11-13T09:26:26-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3406593540.html</dc:source>
+<dc:title><![CDATA[Need ride tomorrow before 2 pm to pick up tv and computer! (Minneapolis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-13T09:26:26-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/ram/rid/3406538345.html">
+<title><![CDATA[MN to TX (St paul)]]></title>
+<link>http://minneapolis.craigslist.org/ram/rid/3406538345.html</link>
+<description><![CDATA[24 years old, Male student at the U of M looking to drive to Dallas TX for thanksgiving next week. 
+Depart 11/20 night or 11/21 morning to return at noon on 11/25. 
+I am looking for someone willing to share cost of gas and possibly driving. 
+Must hav [...]]]></description>
+<dc:date>2012-11-13T09:01:44-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/ram/rid/3406538345.html</dc:source>
+<dc:title><![CDATA[MN to TX (St paul)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-13T09:01:44-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/wsh/rid/3380680729.html">
+<title><![CDATA[Need sled hauled from W. Yellowstone, Montana (Ellsworth, WI)]]></title>
+<link>http://minneapolis.craigslist.org/wsh/rid/3380680729.html</link>
+<description><![CDATA[I need one snowmobile hauled from West Yellowstone, MT to the Twin Cities area or Ellsworth, WI. I Will pay $200. 715-273-4100 or 612-978-9337 Peter]]></description>
+<dc:date>2012-11-13T07:14:02-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/wsh/rid/3380680729.html</dc:source>
+<dc:title><![CDATA[Need sled hauled from W. Yellowstone, Montana (Ellsworth, WI)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-13T07:14:02-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3405992048.html">
+<title><![CDATA[Need a ride to Fargo, ND (MSP-Fargo)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3405992048.html</link>
+<description><![CDATA[Looking for a ride from MSP nov. 27th to Fargo, ND. I am willing to split gas, etc. I am from the Fargo area and am coming home to visit my family before I start work in Salt Lake City on Dec. 13th. Please email me if you have questions or if you can [...]]]></description>
+<dc:date>2012-11-12T22:59:01-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3405992048.html</dc:source>
+<dc:title><![CDATA[Need a ride to Fargo, ND (MSP-Fargo)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-12T22:59:01-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/ank/rid/3405943748.html">
+<title><![CDATA[Looking for ride to twin cities from center city...]]></title>
+<link>http://minneapolis.craigslist.org/ank/rid/3405943748.html</link>
+<description><![CDATA[Looking for ride to Rosedale Mall, East St.Paul, or Mounds View twice a week (Mon.-Sat.) for plasma donation appts. 
+There would be 2 of us riding along - we are very friendly and easy to get along with. 
+Will compensate :-) 
+Please email if interest [...]]]></description>
+<dc:date>2012-11-12T22:19:52-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/ank/rid/3405943748.html</dc:source>
+<dc:title><![CDATA[Looking for ride to twin cities from center city...]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-12T22:19:52-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3405881730.html">
+<title><![CDATA[Rideshare between LongLk to Bloomington (Twin Cities;westburb to Bloomgtn)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3405881730.html</link>
+<description><![CDATA[Looking to save on gas.... and take the "sane lane" from western suburbs Long Lake 
+to Bloomington. Looking to carpool occasionally; somewhat flexible schedule but 
+prefer to work 830-9 to 530PM ..... let me know if this could work. 
+Nice fairly quie [...]]]></description>
+<dc:date>2012-11-12T21:35:40-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3405881730.html</dc:source>
+<dc:title><![CDATA[Rideshare between LongLk to Bloomington (Twin Cities;westburb to Bloomgtn)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-12T21:35:40-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3405859693.html">
+<title><![CDATA[Ride needed - Minneapolis to La Crosse on Thu 11/22 (Minneapolis)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3405859693.html</link>
+<description><![CDATA[I'm looking for a ride from Minneapolis to La Crosse. 
+Leaving November 22nd. This is for two people. My fiancee and myself to get to family for Thanksgiving. 
+email me at andreas.sf@hotmail.comContact me on Zimride: http://www.zimride.com/ride/share [...]]]></description>
+<dc:date>2012-11-12T21:21:15-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3405859693.html</dc:source>
+<dc:title><![CDATA[Ride needed - Minneapolis to La Crosse on Thu 11/22 (Minneapolis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-12T21:21:15-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3405830212.html">
+<title><![CDATA[Pickup headed to Michigan 11/20 (minneapolis)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3405830212.html</link>
+<description><![CDATA[Can drop of riders or cargo in Madison, Milwaukee, or Michigan if you can help with gas$]]></description>
+<dc:date>2012-11-12T21:02:32-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3405830212.html</dc:source>
+<dc:title><![CDATA[Pickup headed to Michigan 11/20 (minneapolis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-12T21:02:32-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3405807277.html">
+<title><![CDATA[Ride needed - Minneapolis to River Falls on Tue 11/20 (Minneapolis)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3405807277.html</link>
+<description><![CDATA[I'm looking for a ride from Minneapolis to River Falls. 
+Leaving November 20th. I would like leave ideally at 4:00 pm, but anytime during the afternoon on this day will work out nicely Contact me on Zimride: http://www.zimride.com/ride/share?ride=528 [...]]]></description>
+<dc:date>2012-11-12T20:48:44-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3405807277.html</dc:source>
+<dc:title><![CDATA[Ride needed - Minneapolis to River Falls on Tue 11/20 (Minneapolis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-12T20:48:44-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3405790033.html">
+<title><![CDATA[Ride offered - Minneapolis to Omaha on Tue 11/20 (Minneapolis)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3405790033.html</link>
+<description><![CDATA[I'm offering a ride from Minneapolis to Omaha. 
+Leaving November 20th returning November 25th. Contact me on Zimride: http://www.zimride.com/ride/share?ride=528441 ]]></description>
+<dc:date>2012-11-12T20:38:27-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3405790033.html</dc:source>
+<dc:title><![CDATA[Ride offered - Minneapolis to Omaha on Tue 11/20 (Minneapolis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-12T20:38:27-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3405719428.html">
+<title><![CDATA[Need a ride to Brainard Thursday Friday maybe Saturday]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3405719428.html</link>
+<description><![CDATA[Need a ride for me and my cousin to Brainerd MN to pick up a car. 
+Would like to go Thursday or Friday, Saturday might work... 
+Would share gas and driving if necessary. ]]></description>
+<dc:date>2012-11-12T19:58:32-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3405719428.html</dc:source>
+<dc:title><![CDATA[Need a ride to Brainard Thursday Friday maybe Saturday]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-12T19:58:32-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3395869522.html">
+<title><![CDATA[rides 4 less to any city or state]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3395869522.html</link>
+<description><![CDATA[**THIS IS A LIMITED TIME OFFER** 
+We are a wholesale travel agency that specializes in providing the best price for travel on Amtrak as well as Greyhound Bus Lines. Since we are an online only travel booker, we are able to further discount travel tic [...]]]></description>
+<dc:date>2012-11-12T19:11:13-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3395869522.html</dc:source>
+<dc:title><![CDATA[rides 4 less to any city or state]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-12T19:11:13-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/ram/rid/3399117188.html">
+<title><![CDATA[Kitten needs transport to IL (antioch il)]]></title>
+<link>http://minneapolis.craigslist.org/ram/rid/3399117188.html</link>
+<description><![CDATA[Kitten needs a ride to Antioch IL shelter 
+He will be traveling from St paul to: 
+Haven At the Inn Animal Rescue 
+17273 w Edwards rd 
+Antioch il 60002 
+please contact me @ 262 220 0977 if you can help out , can provide some $ towards gas aswell 
+than [...]]]></description>
+<dc:date>2012-11-12T18:51:47-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/ram/rid/3399117188.html</dc:source>
+<dc:title><![CDATA[Kitten needs transport to IL (antioch il)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-12T18:51:47-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/wsh/rid/3405292794.html">
+<title><![CDATA[Headed to Green Bay wednesday or thursday (St.Paul/East metro)]]></title>
+<link>http://minneapolis.craigslist.org/wsh/rid/3405292794.html</link>
+<description><![CDATA[I can give a ride to anywhere along WI29 or Green Bay/Manitowoc area. I'm driving a full size Ram so i could also tow a bot or haul something for $$$$. Call 61 two six nine five 8398]]></description>
+<dc:date>2012-11-12T16:36:28-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/wsh/rid/3405292794.html</dc:source>
+<dc:title><![CDATA[Headed to Green Bay wednesday or thursday (St.Paul/East metro)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-12T16:36:28-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/ank/rid/3405206258.html">
+<title><![CDATA[Looking for a weekly carpool/transport service (Bloomington to Blaine)]]></title>
+<link>http://minneapolis.craigslist.org/ank/rid/3405206258.html</link>
+<description><![CDATA[I work weird hours and don't drive so getting back from bloomington to blaine is close to impossible. If your interesting in letting me ride with you or you just want to make some extra money please contact me. 
+Price is negotiable]]></description>
+<dc:date>2012-11-12T16:02:07-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/ank/rid/3405206258.html</dc:source>
+<dc:title><![CDATA[Looking for a weekly carpool/transport service (Bloomington to Blaine)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-12T16:02:07-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3393696733.html">
+<title><![CDATA[Heading to NY New York...? (NYC)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3393696733.html</link>
+<description><![CDATA[looking either ride with someone leaving right around thanksgiving and coming back sometime after the 30th of november... 
+if i can't find someone traveling that way i will take my car or rent a car and then be offering a ride or 2 or 3 depending on  [...]]]></description>
+<dc:date>2012-11-12T13:55:13-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3393696733.html</dc:source>
+<dc:title><![CDATA[Heading to NY New York...? (NYC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-12T13:55:13-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/dak/rid/3404559877.html">
+<title><![CDATA[Twin Cities to Bloomington, IL via Chicago Nov 19]]></title>
+<link>http://minneapolis.craigslist.org/dak/rid/3404559877.html</link>
+<description><![CDATA[Driving from Fargo, ND - Bloomington, IL. I am willing to pick someone up in Minneapolis and driving over Chicago (if necessary). You are also welcome to get of at any place on my route. I leave Fargo on Nov 19 not sure what time I will be in Minneap [...]]]></description>
+<dc:date>2012-11-12T12:12:46-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/dak/rid/3404559877.html</dc:source>
+<dc:title><![CDATA[Twin Cities to Bloomington, IL via Chicago Nov 19]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-12T12:12:46-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3404472490.html">
+<title><![CDATA[need a ride to duluth on Nov 17 (United States)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3404472490.html</link>
+<description><![CDATA[looking for a ride to duluth from ne minneapolis on nov 17 sometime in the morning... 
+i will chip in for gas 
+thanks]]></description>
+<dc:date>2012-11-12T11:43:18-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3404472490.html</dc:source>
+<dc:title><![CDATA[need a ride to duluth on Nov 17 (United States)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-12T11:43:18-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3404067903.html">
+<title><![CDATA[Buffalo/Niagara Falls, NY (Toronto, Ontario)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3404067903.html</link>
+<description><![CDATA[Hi! I'm looking to see if anyone travels between Minneapolis and Buffalo, NY (I'm from Toronto; however I can hop on the shuttle in Buffalo). I'd like to go back every now and then, so if you travel out that way, I'd help with gas, I don't smoke, and [...]]]></description>
+<dc:date>2012-11-12T09:17:33-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3404067903.html</dc:source>
+<dc:title><![CDATA[Buffalo/Niagara Falls, NY (Toronto, Ontario)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-12T09:17:33-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/ram/rid/3404065329.html">
+<title><![CDATA[Looking for weekly carpool]]></title>
+<link>http://minneapolis.craigslist.org/ram/rid/3404065329.html</link>
+<description><![CDATA[I'm looking for someone to carpool with in Blaine area. My work hrs will vary and buses don't always run some hrs.]]></description>
+<dc:date>2012-11-12T09:16:28-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/ram/rid/3404065329.html</dc:source>
+<dc:title><![CDATA[Looking for weekly carpool]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-12T09:16:28-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3396369266.html">
+<title><![CDATA[Driving from Twin Cities to California (St. Paul to Bay Area)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3396369266.html</link>
+<description><![CDATA[I will drive from the Twin Cities to California starting on November 14. I am looking for a safe, responsible driver to accompany me and share driving duties. You must have a valid driver's license and be comfortable driving long hours on interstate  [...]]]></description>
+<dc:date>2012-11-12T08:53:30-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3396369266.html</dc:source>
+<dc:title><![CDATA[Driving from Twin Cities to California (St. Paul to Bay Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-12T08:53:30-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/ram/rid/3395376936.html">
+<title><![CDATA[Transportation Services (St Paul)]]></title>
+<link>http://minneapolis.craigslist.org/ram/rid/3395376936.html</link>
+<description><![CDATA[30 year + safe driver. Never had an accident providing rides to Airport, casino, grocery store etc. Located in St Paul. 
+Negotiable rates 
+txt or msg 651 689 3559]]></description>
+<dc:date>2012-11-12T08:33:41-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/ram/rid/3395376936.html</dc:source>
+<dc:title><![CDATA[Transportation Services (St Paul)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-12T08:33:41-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3403970588.html">
+<title><![CDATA[Sioux falls (south Dakota)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3403970588.html</link>
+<description><![CDATA[hi, I'm looking for a ride to Sioux Falls SD. Wednesday afternoon. 
+Leaving from Southern suburbs. 
+John from Sioux Falls. ]]></description>
+<dc:date>2012-11-12T08:33:10-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3403970588.html</dc:source>
+<dc:title><![CDATA[Sioux falls (south Dakota)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-12T08:33:10-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3403946183.html">
+<title><![CDATA[Ride Needed Colorado for Thanksgiving (Minneapolis)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3403946183.html</link>
+<description><![CDATA[Need a ride to and from Colorado for Thanksgiving. I'm a 30 year old music teacher with a perfect driving record. Looking to leave around Wednesday the 21st and return around Sunday the 25th. 
+Thanks, 
+Ty 
+718 536 9505]]></description>
+<dc:date>2012-11-12T08:20:47-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3403946183.html</dc:source>
+<dc:title><![CDATA[Ride Needed Colorado for Thanksgiving (Minneapolis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-12T08:20:47-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/ram/rid/3370358268.html">
+<title><![CDATA[small distance driver (st paul (east side))]]></title>
+<link>http://minneapolis.craigslist.org/ram/rid/3370358268.html</link>
+<description><![CDATA[Hello my name is Solomon Bell and me and my wife are looking to make extra money for the holidays. I'm a 30 yr old male with a clean driving history and license. 
+I have free time during the hours of 8:00am - 3:30pm and some evenings. Its so hard to  [...]]]></description>
+<dc:date>2012-11-12T07:41:33-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/ram/rid/3370358268.html</dc:source>
+<dc:title><![CDATA[small distance driver (st paul (east side))]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-12T07:41:33-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3374572558.html">
+<title><![CDATA[MOVING TO DETROIT,MI/TOLEDO AREA? NEED ITEMS /F.FALLS AREA,W/O CRATING (BATTLE LAKE, MN.)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3374572558.html</link>
+<description><![CDATA[NEED SMALL FURNITURE ITEMS AND A FEW BOXES MOVED TO S.E. MICHIGAN AREA--WITHIN 100 MILES OR SO FROM TROY, MI. 48083---( SHIPPING COMPANIES REQUIRE ITEMS TO BE CRATED IF THEY ARE LESS THAN A TRUCKLOAD )--IF YOU ARE A PRIVATE PARTY WITH ROOM ( OR A MOV [...]]]></description>
+<dc:date>2012-11-12T07:38:40-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3374572558.html</dc:source>
+<dc:title><![CDATA[MOVING TO DETROIT,MI/TOLEDO AREA? NEED ITEMS /F.FALLS AREA,W/O CRATING (BATTLE LAKE, MN.)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-12T07:38:40-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/wsh/rid/3403359980.html">
+<title><![CDATA[need a ride to Kc  (stillwater)]]></title>
+<link>http://minneapolis.craigslist.org/wsh/rid/3403359980.html</link>
+<description><![CDATA[Looking for any one going to kc willing to chip in on gas leaving asap]]></description>
+<dc:date>2012-11-11T21:14:44-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/wsh/rid/3403359980.html</dc:source>
+<dc:title><![CDATA[need a ride to Kc  (stillwater)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-11T21:14:44-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3403171813.html">
+<title><![CDATA[One Way to Decorah IA (Decorah IA)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3403171813.html</link>
+<description><![CDATA[I need a one way ride to Decorah IA to pick up a car. Leaving Sat or Sun morning would be best, but would consider other times.]]></description>
+<dc:date>2012-11-11T19:16:27-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3403171813.html</dc:source>
+<dc:title><![CDATA[One Way to Decorah IA (Decorah IA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-11T19:16:27-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/wsh/rid/3403155486.html">
+<title><![CDATA[In NEED of a Ride to Big Lake, mn (Woodbury)]]></title>
+<link>http://minneapolis.craigslist.org/wsh/rid/3403155486.html</link>
+<description><![CDATA[Well I live in Woodbury, mn and my boyfriend lives in Big Lake, I want to go up and visit him, but there arnt any busses from woodbury to downtown on a regular basis. So I wanted to see if there was anyway anyone could give me a ride up there. If you [...]]]></description>
+<dc:date>2012-11-11T19:06:58-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/wsh/rid/3403155486.html</dc:source>
+<dc:title><![CDATA[In NEED of a Ride to Big Lake, mn (Woodbury)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-11T19:06:58-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/ram/rid/3402696457.html">
+<title><![CDATA[Need ride out to California! (Saint Paul)]]></title>
+<link>http://minneapolis.craigslist.org/ram/rid/3402696457.html</link>
+<description><![CDATA[Hello, two friendly riders need to get out to California this week! We are able to drive long distances and only have a backpack each. If you could help us out that would be great!! Send me an email if you have any questions. Thanks!]]></description>
+<dc:date>2012-11-11T15:09:40-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/ram/rid/3402696457.html</dc:source>
+<dc:title><![CDATA[Need ride out to California! (Saint Paul)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-11T15:09:40-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3402693360.html">
+<title><![CDATA[Are you going to the Iron Range for Thanksgiving? (Grand Rapids/Iron Range)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3402693360.html</link>
+<description><![CDATA[My mother lives in the Grand Rapids/Iron Range area in Northern Minnesota and is planning a trip to the East Coast to visit her grandchildren. Unfortunately, there is NO public transportantion from Grand Rapids to Minneapolis (not even bus service).  [...]]]></description>
+<dc:date>2012-11-11T15:08:09-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3402693360.html</dc:source>
+<dc:title><![CDATA[Are you going to the Iron Range for Thanksgiving? (Grand Rapids/Iron Range)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-11T15:08:09-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3402464900.html">
+<title><![CDATA[Need to get a dog to Minot, ND FAST! (Minot)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3402464900.html</link>
+<description><![CDATA[My husband left me with his dog, then he left ME. I just had emergency surgery last night and need to get this dog to him. She's trained, nice, 18 lbs. Would probably only have to stop once for a break. This is URGENT! I can no longer care for this d [...]]]></description>
+<dc:date>2012-11-11T13:22:26-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3402464900.html</dc:source>
+<dc:title><![CDATA[Need to get a dog to Minot, ND FAST! (Minot)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-11T13:22:26-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/dak/rid/3401011812.html">
+<title><![CDATA[Rapid City (South Metro)]]></title>
+<link>http://minneapolis.craigslist.org/dak/rid/3401011812.html</link>
+<description><![CDATA[I ( 39 y/o WM with a ginormous beard) am heading to Rapid City next weekend (November 17th-18th) and will be happy to give someone a ride in exchange for sharing fuel costs. Email and we can chat/meet prior to next weekend. ]]></description>
+<dc:date>2012-11-10T17:56:19-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/dak/rid/3401011812.html</dc:source>
+<dc:title><![CDATA[Rapid City (South Metro)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-10T17:56:19-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/wsh/rid/3400697490.html">
+<title><![CDATA[MSP to Madison (Madison, WI)]]></title>
+<link>http://minneapolis.craigslist.org/wsh/rid/3400697490.html</link>
+<description><![CDATA[On Thursday Dec 20th anytime after 630pm I need to try and find a ride to Madison, WI after my flight lands at MSP. I looked at MegaBus and the next available bus leaves at 1030pm. Its a 5 hour and 20 minute ride for $25. I would rather not take a bu [...]]]></description>
+<dc:date>2012-11-10T15:17:56-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/wsh/rid/3400697490.html</dc:source>
+<dc:title><![CDATA[MSP to Madison (Madison, WI)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-10T15:17:56-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3400515403.html">
+<title><![CDATA[minneapolis to rochester (s mpls-ne rochester)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3400515403.html</link>
+<description><![CDATA[Hey there, looking for a ride for two people (brother and sister) to get down to rochester from south minneapolis anytime between Friday 11/16 at night and early Sunday 11/18 morning. Happy to drive. We'll pay for the gas. 
+danika]]></description>
+<dc:date>2012-11-10T13:58:47-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3400515403.html</dc:source>
+<dc:title><![CDATA[minneapolis to rochester (s mpls-ne rochester)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-10T13:58:47-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3400279034.html">
+<title><![CDATA[Mpls. to Green Bay (Mpls)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3400279034.html</link>
+<description><![CDATA[Wanted rider's to Green Bay WI For Thanksgiving weekend 
+Leaving Tuesday November 21 returning on the week end 
+non-smoker, no alcohol 
+SUV 
+I can take up to 2 riders 
+Series Inquiries only]]></description>
+<dc:date>2012-11-10T12:24:48-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3400279034.html</dc:source>
+<dc:title><![CDATA[Mpls. to Green Bay (Mpls)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-10T12:24:48-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/dak/rid/3399879006.html">
+<title><![CDATA[Rosemount to Apple Valley (Shannon + 144th st to 42 + Cedar)]]></title>
+<link>http://minneapolis.craigslist.org/dak/rid/3399879006.html</link>
+<description><![CDATA[Need ride from and to areas above to get to work. Please email response. ]]></description>
+<dc:date>2012-11-10T09:48:04-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/dak/rid/3399879006.html</dc:source>
+<dc:title><![CDATA[Rosemount to Apple Valley (Shannon + 144th st to 42 + Cedar)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-10T09:48:04-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3399638899.html">
+<title><![CDATA[Need to get to Atlanta by noon Sunday]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3399638899.html</link>
+<description><![CDATA[Anyone heading that way that has room for a passenger? ]]></description>
+<dc:date>2012-11-10T07:44:41-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3399638899.html</dc:source>
+<dc:title><![CDATA[Need to get to Atlanta by noon Sunday]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-10T07:44:41-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3399334719.html">
+<title><![CDATA[ weekly driver needed (south mpls)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3399334719.html</link>
+<description><![CDATA[I am looking for a driver who can take me and drop me off at work, my schedule is a bit crazy some days I work 10 hrs and others 4 and 8 hour shifts, i don't live too far from my job just need rides for the next few months, I don't have a specific am [...]]]></description>
+<dc:date>2012-11-10T00:29:12-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3399334719.html</dc:source>
+<dc:title><![CDATA[ weekly driver needed (south mpls)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-10T00:29:12-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3398778205.html">
+<title><![CDATA[I need a ride to Duluth tonight  (Duluth mn)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3398778205.html</link>
+<description><![CDATA[Lookin for a ride from Minneapolis toduliyh tonight at anytime. Stranded in te cities. Text me and I can help pay for gas. 715-768-5048]]></description>
+<dc:date>2012-11-09T17:52:03-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3398778205.html</dc:source>
+<dc:title><![CDATA[I need a ride to Duluth tonight  (Duluth mn)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-09T17:52:03-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3390541590.html">
+<title><![CDATA[Need Ride to Chicago,IL on Nov 23rd Eve or 24th Morning  (Dwtn Minneapolis)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3390541590.html</link>
+<description><![CDATA[I have a valid drivers license. 
+I am looking for a ride to chicago on November 23rd Evening or 24th Early morning. 
+I can share the Gas and we can enjoy the trip. 
+Please email me. I am Anandh/30/male/indian. 
+Thanks 
+Andy]]></description>
+<dc:date>2012-11-09T16:28:17-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3390541590.html</dc:source>
+<dc:title><![CDATA[Need Ride to Chicago,IL on Nov 23rd Eve or 24th Morning  (Dwtn Minneapolis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-09T16:28:17-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/ram/rid/3398486772.html">
+<title><![CDATA[Ride to Des moines/Denver offered]]></title>
+<link>http://minneapolis.craigslist.org/ram/rid/3398486772.html</link>
+<description><![CDATA[Hello! 
+I'm driving to Des Moines on Thursday morning the 15th of November, then heading to Colorado. 
+Paul 
+651-335-0583]]></description>
+<dc:date>2012-11-09T15:39:09-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/ram/rid/3398486772.html</dc:source>
+<dc:title><![CDATA[Ride to Des moines/Denver offered]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-09T15:39:09-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3398412652.html">
+<title><![CDATA[Minneapolis to Des Moines / Kansas City - Tuesday 11/13]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3398412652.html</link>
+<description><![CDATA[Driving up from KC To Minneapolis on Saturday 11/9, returning back to KC on 11/13. Have room for passengers or cargo, however car is a mustang. Going through Des Moines. Looking to split gas (Around $25 or whatever you can do) Email for more info. Th [...]]]></description>
+<dc:date>2012-11-09T15:09:07-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3398412652.html</dc:source>
+<dc:title><![CDATA[Minneapolis to Des Moines / Kansas City - Tuesday 11/13]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-09T15:09:07-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3365295942.html">
+<title><![CDATA[Pickup Truck Headed to NV Las Vegas Denver (Minneapolis-Denver-Vegas)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3365295942.html</link>
+<description><![CDATA[Responsible middle aged couple headed back to our winter home in Las Vegas, driving a large modern Ford truck and can pull a trailer, boat, motorcycles, ATV (have open motorcycle trailer available) etc and drop off in Las Vegas or Denver area. Our us [...]]]></description>
+<dc:date>2012-11-09T14:00:42-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3365295942.html</dc:source>
+<dc:title><![CDATA[Pickup Truck Headed to NV Las Vegas Denver (Minneapolis-Denver-Vegas)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-09T14:00:42-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/wsh/rid/3397824541.html">
+<title><![CDATA[looking to go anywhere (Minneapolis)]]></title>
+<link>http://minneapolis.craigslist.org/wsh/rid/3397824541.html</link>
+<description><![CDATA[Looking for a ride out of Minnesota. Preferably south Texas, Kansas city, California would be great but honestly I'm not picky tell me where your going. Got money for gas just need to stretch my legs.]]></description>
+<dc:date>2012-11-09T11:30:54-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/wsh/rid/3397824541.html</dc:source>
+<dc:title><![CDATA[looking to go anywhere (Minneapolis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-09T11:30:54-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/ram/rid/3397806059.html">
+<title><![CDATA[Ride Offered: St Paul to Chicago (11/21), Chicago to MSP (11/25) (St. Paul)]]></title>
+<link>http://minneapolis.craigslist.org/ram/rid/3397806059.html</link>
+<description><![CDATA[I'm leaving from St. Paul in the afternoon on Wednesday to Chicago for Thanksgiving. I'll return from Chicago to the Minneapolis area on Sunday, time is flexible. I have room for 2 or 3 passengers. Help with gas and driving would be appreciated. No s [...]]]></description>
+<dc:date>2012-11-09T11:24:25-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/ram/rid/3397806059.html</dc:source>
+<dc:title><![CDATA[Ride Offered: St Paul to Chicago (11/21), Chicago to MSP (11/25) (St. Paul)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-09T11:24:25-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/wsh/rid/3390567852.html">
+<title><![CDATA[Going WEST California San Francisco Bay Area?]]></title>
+<link>http://minneapolis.craigslist.org/wsh/rid/3390567852.html</link>
+<description><![CDATA[Well if so and can bring a 3'x3.5' suitcase along , splendid ! 
+Trying to buy a vintage suitcase minibike in the Minneapolis area and the owner won't ship! 
+So please e a phone number and we'll get it together! 
+Thank You!]]></description>
+<dc:date>2012-11-09T10:47:40-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/wsh/rid/3390567852.html</dc:source>
+<dc:title><![CDATA[Going WEST California San Francisco Bay Area?]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-09T10:47:40-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3397628133.html">
+<title><![CDATA[Need a ride to Virginia mn]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3397628133.html</link>
+<description><![CDATA[I'm trying to get to Virginia mn today and come back Sunday anyone going that way]]></description>
+<dc:date>2012-11-09T10:19:19-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3397628133.html</dc:source>
+<dc:title><![CDATA[Need a ride to Virginia mn]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-09T10:19:19-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3383692952.html">
+<title><![CDATA[DO YOU TRAVEL TO PHOENIX/SCOTTSDALE ARIZONA W TRAILER]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3383692952.html</link>
+<description><![CDATA[I have a 1988 chev. truck that is sitting in Delano and would take a little effort to help get it here for me. Might need a battery and surely air in the tires unless you have a flat bed trailer you drive back and forth. I am a professional auto tech [...]]]></description>
+<dc:date>2012-11-09T09:42:16-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3383692952.html</dc:source>
+<dc:title><![CDATA[DO YOU TRAVEL TO PHOENIX/SCOTTSDALE ARIZONA W TRAILER]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-09T09:42:16-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/dak/rid/3383861181.html">
+<title><![CDATA[Burnsville to manatoba, canada (mn-brandon manatoba or close)]]></title>
+<link>http://minneapolis.craigslist.org/dak/rid/3383861181.html</link>
+<description><![CDATA[I am a 23 year old male moving to Brandon, manitoba canada to live with my fiance. I have my passport for crossing the boarder. I will be packing lite. I have a suitcase and 2 duffel bags, I am open to different dates as long as its convenient. I am  [...]]]></description>
+<dc:date>2012-11-09T08:01:16-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/dak/rid/3383861181.html</dc:source>
+<dc:title><![CDATA[Burnsville to manatoba, canada (mn-brandon manatoba or close)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-09T08:01:16-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3397213083.html">
+<title><![CDATA[Need ride to Ladysmith WI Nov21  (MSP airport)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3397213083.html</link>
+<description><![CDATA[Arriving in to MSP from Amsterdam at 2pm on Nov 21 and looking for a ride to Ladysmith to celebrate Thanksgiving with family. There are two of us and two small luggage bags. 
+Thanks for helping us out!]]></description>
+<dc:date>2012-11-09T06:45:29-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3397213083.html</dc:source>
+<dc:title><![CDATA[Need ride to Ladysmith WI Nov21  (MSP airport)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-09T06:45:29-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3396984330.html">
+<title><![CDATA[Looking for carpool riders on Highway 100  (Mpls/Robinsdale/Bloomington)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3396984330.html</link>
+<description><![CDATA[I'm looking for passengers for a carpool. I commute weekdays from the Robinsdale/Camden area to the Normandale Lake Office Park in west Bloomington. I work from 11 AM to 5:30 PM. I'm willing to drive everyday (I do it anyway), and I expect my passeng [...]]]></description>
+<dc:date>2012-11-09T00:28:49-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3396984330.html</dc:source>
+<dc:title><![CDATA[Looking for carpool riders on Highway 100  (Mpls/Robinsdale/Bloomington)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-09T00:28:49-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/wsh/rid/3396802477.html">
+<title><![CDATA[Driving east through Minneapolis (Minneapolis to east)]]></title>
+<link>http://minneapolis.craigslist.org/wsh/rid/3396802477.html</link>
+<description><![CDATA[I am driving from Edmonton Canada to Washington DC and will be passing through Minneapolis December 1st. 
+If you need a ride east, toward or through Chicago and can help drive, and are a safe and reliable licensed driver, please email me if intereste [...]]]></description>
+<dc:date>2012-11-08T21:45:30-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/wsh/rid/3396802477.html</dc:source>
+<dc:title><![CDATA[Driving east through Minneapolis (Minneapolis to east)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-08T21:45:30-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/ram/rid/3389546345.html">
+<title><![CDATA[ going to Tx) will drive (mn)]]></title>
+<link>http://minneapolis.craigslist.org/ram/rid/3389546345.html</link>
+<description><![CDATA[Will deliver your car or truck to Texas. Leave anytime between November 12th and 18th. (Other dates may be possible.) I am 57, have an excellent driving record and commercial driver's license. Call Dave at 603 236-6706 (cell phone) ]]></description>
+<dc:date>2012-11-08T20:45:55-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/ram/rid/3389546345.html</dc:source>
+<dc:title><![CDATA[ going to Tx) will drive (mn)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-08T20:45:55-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/ram/rid/3332693353.html">
+<title><![CDATA[looking for ride to san antonio tx (mn)]]></title>
+<link>http://minneapolis.craigslist.org/ram/rid/3332693353.html</link>
+<description><![CDATA[mid nov or so fexable a little.will pay 1/2 gas & SHARE DRIVING,HAVE CDL .57 YEARS OLD CALL DAVE AT 603-236-6706 DRIVE STRAIGHT THREW IF WANT TO.]]></description>
+<dc:date>2012-11-08T20:45:37-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/ram/rid/3332693353.html</dc:source>
+<dc:title><![CDATA[looking for ride to san antonio tx (mn)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-08T20:45:37-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3395693855.html">
+<title><![CDATA[Need ride from Minneapolis to Albert Lea (Downtown Minneapolis)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3395693855.html</link>
+<description><![CDATA[Hello I am trying to get to Albert Lea where the 90 is I have a friend who is a truck driver who can pick me up from there and take me where I am heading. I am a 28 y/o easy going guy but am down on my luck and just lost my wallet and wanna get out o [...]]]></description>
+<dc:date>2012-11-08T13:01:19-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3395693855.html</dc:source>
+<dc:title><![CDATA[Need ride from Minneapolis to Albert Lea (Downtown Minneapolis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-08T13:01:19-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3395357511.html">
+<title><![CDATA[Drive your vehicle to Florida (Minneapolis)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3395357511.html</link>
+<description><![CDATA[I am moving to Florida in December and would be willing to drive your vehicle down there for you. My car is already there. I am a responsible driver with a clean record. ]]></description>
+<dc:date>2012-11-08T10:59:47-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3395357511.html</dc:source>
+<dc:title><![CDATA[Drive your vehicle to Florida (Minneapolis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-08T10:59:47-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3395356537.html">
+<title><![CDATA[Deliver your things to Florida]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3395356537.html</link>
+<description><![CDATA[I am moving to Florida in December. I will be renting a U-haul truck and will have room for extra stuff and another driver. I plan to leave Dec. 3 or 4. Must provide references if you want a ride with. No cost to you if you help drive with no over ni [...]]]></description>
+<dc:date>2012-11-08T10:59:27-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3395356537.html</dc:source>
+<dc:title><![CDATA[Deliver your things to Florida]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-08T10:59:27-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3395288787.html">
+<title><![CDATA[Heading East NYC & points between (St. Paul - NYC )]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3395288787.html</link>
+<description><![CDATA[Heading back to NYC region early next week..I am gonna rent car, and wouldn't mind good company. Happy to stop along the way. I easy-going am 32 yo guy.]]></description>
+<dc:date>2012-11-08T10:34:29-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3395288787.html</dc:source>
+<dc:title><![CDATA[Heading East NYC & points between (St. Paul - NYC )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-08T10:34:29-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3395177491.html">
+<title><![CDATA[go to colorado today (MPLS)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3395177491.html</link>
+<description><![CDATA[Leaving soon. 16 hours driving straight. Looking for $100 to help with gas and help driving. 
+25 year old male. Music, conversation, NPR, and stopping at grocery stores, no fast food! ]]></description>
+<dc:date>2012-11-08T09:51:27-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3395177491.html</dc:source>
+<dc:title><![CDATA[go to colorado today (MPLS)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-08T09:51:27-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/ram/rid/3395073557.html">
+<title><![CDATA[need a driver (tc)]]></title>
+<link>http://minneapolis.craigslist.org/ram/rid/3395073557.html</link>
+<description><![CDATA[need a driver for day to day travel around mn. message for details]]></description>
+<dc:date>2012-11-08T09:07:50-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/ram/rid/3395073557.html</dc:source>
+<dc:title><![CDATA[need a driver (tc)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-08T09:07:50-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3331478174.html">
+<title><![CDATA[$300 to transport rowboat from North Carolina (Charlotte)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3331478174.html</link>
+<description><![CDATA[We are looking for someone coming from or through North Carolina with an empty or partly-empty trailer / pickup truck / van who could pick up a small boat in Mooresville, North Carolina (outside Charlotte) and drop it off in or near Minneapolis MN. T [...]]]></description>
+<dc:date>2012-11-08T09:05:37-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3331478174.html</dc:source>
+<dc:title><![CDATA[$300 to transport rowboat from North Carolina (Charlotte)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-08T09:05:37-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3394273823.html">
+<title><![CDATA[MegaBus Option for budget travelers  (Minneap to WI or Chicago )]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3394273823.html</link>
+<description><![CDATA[Hi travelers! 
+Just wanted to share this option with you. Check out megabus.com and they have cheap bus fares to Chicago, IL and Madison or Milwaukee, WI from Minneapolis. 
+I have taken the mega bus before. They are roomy, double decker buses, with w [...]]]></description>
+<dc:date>2012-11-07T19:58:19-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3394273823.html</dc:source>
+<dc:title><![CDATA[MegaBus Option for budget travelers  (Minneap to WI or Chicago )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-07T19:58:19-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/dak/rid/3394207509.html">
+<title><![CDATA[Need ride to Hudson  11/12 am (from B/Ville)]]></title>
+<link>http://minneapolis.craigslist.org/dak/rid/3394207509.html</link>
+<description><![CDATA[My truck is in the shop...but I HAVE to be in Hudson by 10 am ! I have $$$ for gas..Round trip if possible...Leave Hudson 10:30 or 11 ? If I take the bus and then the train and then the shuttle and then a taxi I will have to leave at 5:15 am and wont [...]]]></description>
+<dc:date>2012-11-07T19:20:30-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/dak/rid/3394207509.html</dc:source>
+<dc:title><![CDATA[Need ride to Hudson  11/12 am (from B/Ville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-07T19:20:30-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3393985736.html">
+<title><![CDATA[Ride Offered: Minneapolis to Florida (Minneapolis)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3393985736.html</link>
+<description><![CDATA[Hello! I am heading south to FLORIDA this coming Sunday or Monday, November 11th or 12th. I have room for three people/pets/stuff. :D Heading south on I-35, pit stop in Springfield, MO, and then off to Florida. The final destination in Florida will b [...]]]></description>
+<dc:date>2012-11-07T17:29:15-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3393985736.html</dc:source>
+<dc:title><![CDATA[Ride Offered: Minneapolis to Florida (Minneapolis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-07T17:29:15-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3393966313.html">
+<title><![CDATA[ride needed north duluth/ range (duluth virginia)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3393966313.html</link>
+<description><![CDATA[hello, in am college student, 
+and have a visit with my children on Saturday morning 9 am in Virginia MN. 
+i need a ride Friday morning to Duluth before 1-2pm as i can get a bus from there that happens to run the second Friday of every month. 
+otherw [...]]]></description>
+<dc:date>2012-11-07T17:20:02-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3393966313.html</dc:source>
+<dc:title><![CDATA[ride needed north duluth/ range (duluth virginia)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-07T17:20:02-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3343953635.html">
+<title><![CDATA[Rider Offer:  Minneapolis to Portland, OR (on Dec 21 or 22) (Minneapolis)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3343953635.html</link>
+<description><![CDATA[Hello, 
+I will be driving across the country in my Subaru across MN, ND, MT, ID, WA and OR. 
+Please let me know if you are interested to share gas. 
+About me: I am 34 YO Professional male. 
+Please be clean and courteous. No punks please. 
+Thanks. 
+My [...]]]></description>
+<dc:date>2012-11-07T17:07:32-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3343953635.html</dc:source>
+<dc:title><![CDATA[Rider Offer:  Minneapolis to Portland, OR (on Dec 21 or 22) (Minneapolis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-07T17:07:32-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3393551152.html">
+<title><![CDATA[Ride offered - Minneapolis to Winona on Fri 11/16 (Richfield)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3393551152.html</link>
+<description><![CDATA[I'm offering a ride from Richfield area to Winona. 
+Leaving November 16th returning November 18th. Heading down to Winona for the weekend ... but I'll also be around La Crosse if that's your final destination! Contact me on Zimride: http://www.zimrid [...]]]></description>
+<dc:date>2012-11-07T14:27:50-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3393551152.html</dc:source>
+<dc:title><![CDATA[Ride offered - Minneapolis to Winona on Fri 11/16 (Richfield)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-07T14:27:50-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3393085258.html">
+<title><![CDATA[Driving to Chicago 11/16-11/18 (Chicago)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3393085258.html</link>
+<description><![CDATA[I am driving to Chicago on Friday November 16 and returning on Sunday November 18. Flexible on leave time and flexible on pick-up/drop-off location. Looking to split gas. ]]></description>
+<dc:date>2012-11-07T11:37:30-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3393085258.html</dc:source>
+<dc:title><![CDATA[Driving to Chicago 11/16-11/18 (Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-07T11:37:30-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/wsh/rid/3392852451.html">
+<title><![CDATA[Car pool passenger(s) wanted (I94 Woodville to St. Paul)]]></title>
+<link>http://minneapolis.craigslist.org/wsh/rid/3392852451.html</link>
+<description><![CDATA[Tired of driving by yourself? Tired of the high gas prices? Then let's carpool 
+I live NE of Baldwin, WI and work in Eagan. Willing to pick up passengers anywhere enroute and drop off in either St. Paul or Eagan. 
+My schedule is very flexible. I can  [...]]]></description>
+<dc:date>2012-11-07T10:12:22-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/wsh/rid/3392852451.html</dc:source>
+<dc:title><![CDATA[Car pool passenger(s) wanted (I94 Woodville to St. Paul)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-07T10:12:22-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/csw/rid/3392007385.html">
+<title><![CDATA[Ride/Delivery offered to Rochester 11/8 (Metro area/Shakopee)]]></title>
+<link>http://minneapolis.craigslist.org/csw/rid/3392007385.html</link>
+<description><![CDATA[I am driving to Rochester on Thursday and can leave anytime up to 5:00pm - I am willing to pick up just about anywhere in the metro area. I have a pickup so only have room for one passenger (pet would be ok - no snakes or reptiles of any kind, includ [...]]]></description>
+<dc:date>2012-11-06T20:54:32-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/csw/rid/3392007385.html</dc:source>
+<dc:title><![CDATA[Ride/Delivery offered to Rochester 11/8 (Metro area/Shakopee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-06T20:54:32-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3391979430.html">
+<title><![CDATA[Ride offered - St Paul to Cincinnati on Wed 11/7 (St Paul)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3391979430.html</link>
+<description><![CDATA[I'm offering a ride from St Paul to Cincinnati. 
+Leaving November 7th. Can also drop off in Chicago along the way, or can continue on to NC, where I'll be stopping for a while. email me or
+Contact me on Zimride: http://www.zimride.com/ride/share?ride [...]]]></description>
+<dc:date>2012-11-06T20:36:18-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3391979430.html</dc:source>
+<dc:title><![CDATA[Ride offered - St Paul to Cincinnati on Wed 11/7 (St Paul)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-06T20:36:18-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3390844060.html">
+<title><![CDATA[Taxi Service!!!!!! (Metro Area)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3390844060.html</link>
+<description><![CDATA[For all your taxi needs call us you will get good service and 10% off any ride of $20 or more.credit cards accepted Call 763-807-6812 ]]></description>
+<dc:date>2012-11-06T12:05:42-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3390844060.html</dc:source>
+<dc:title><![CDATA[Taxi Service!!!!!! (Metro Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-06T12:05:42-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/wsh/rid/3379185923.html">
+<title><![CDATA[25$ Nov 9th 9 am Minneapolis to Fargo / Bozeman MT (Minneapolis)]]></title>
+<link>http://minneapolis.craigslist.org/wsh/rid/3379185923.html</link>
+<description><![CDATA[Headed to Western US all the way to Montana. Offering ride from Minneapolis to Fargo, North Dakota 25$ per person one way. You are welcome to discuss for longer part of the trip all the way to Bozeman, Montana. 
+Price to do the whole Minneapolis to B [...]]]></description>
+<dc:date>2012-11-06T08:21:56-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/wsh/rid/3379185923.html</dc:source>
+<dc:title><![CDATA[25$ Nov 9th 9 am Minneapolis to Fargo / Bozeman MT (Minneapolis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-06T08:21:56-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3389916088.html">
+<title><![CDATA[Have room for 1 to North Dakota (from St. Paul MN to Williston ND)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3389916088.html</link>
+<description><![CDATA[Nonsmoking car. Price is negotiable if you drive or I do all the driving and also depending on if you need to be picked up, etc. Leaving Tuesday night or Wednesday morning. ]]></description>
+<dc:date>2012-11-06T00:20:34-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3389916088.html</dc:source>
+<dc:title><![CDATA[Have room for 1 to North Dakota (from St. Paul MN to Williston ND)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-06T00:20:34-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/ram/rid/3389601466.html">
+<title><![CDATA[Carpool St. Paul to Mpls. & Back (St. Paul/Highland)]]></title>
+<link>http://minneapolis.craigslist.org/ram/rid/3389601466.html</link>
+<description><![CDATA[I am looking for a regular carpool situation. I live in St. Paul's Highland Park neighborhood and work near City Hall in downtown Minneapolis. I am open to riding or driving; either way I want to share costs. My schedule is 7:30 to 3:00 M-F but I can [...]]]></description>
+<dc:date>2012-11-05T20:15:52-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/ram/rid/3389601466.html</dc:source>
+<dc:title><![CDATA[Carpool St. Paul to Mpls. & Back (St. Paul/Highland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-05T20:15:52-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3389518716.html">
+<title><![CDATA[Ride needed from Mpls to Green Bay (Uptown)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3389518716.html</link>
+<description><![CDATA[I'm looking for a ride home to Green Bay either Friday November 16th and then returning Sunday November 18th or Friday December 7th and then returning on Sunday December 9th. I would be willing to leave Thursday night but I would need some notice so  [...]]]></description>
+<dc:date>2012-11-05T19:29:50-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3389518716.html</dc:source>
+<dc:title><![CDATA[Ride needed from Mpls to Green Bay (Uptown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-05T19:29:50-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3389211242.html">
+<title><![CDATA[Looking for a ride from MSP to the Fox Cities (WI) on Thursday 11/8 (u of m )]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3389211242.html</link>
+<description><![CDATA[hi i am trying to get from minneapolis area to the fox cities this thursday and can leave anytime after 5 pm. I am willing to chip in for gas as well. ]]></description>
+<dc:date>2012-11-05T16:59:35-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3389211242.html</dc:source>
+<dc:title><![CDATA[Looking for a ride from MSP to the Fox Cities (WI) on Thursday 11/8 (u of m )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-05T16:59:35-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/wsh/rid/3389006017.html">
+<title><![CDATA[Ride offered EAST Cinci, NC, NY (St. Paul)]]></title>
+<link>http://minneapolis.craigslist.org/wsh/rid/3389006017.html</link>
+<description><![CDATA[Leaving on or around wednesday, 11/7 and driving to Cincinnatti. Spending one day there then heading to North Carolina. I'll be in NC for a few days before heading up the coast to NYC area. If you want to join for part or all of this trip, or are won [...]]]></description>
+<dc:date>2012-11-05T15:33:51-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/wsh/rid/3389006017.html</dc:source>
+<dc:title><![CDATA[Ride offered EAST Cinci, NC, NY (St. Paul)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-05T15:33:51-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3388921528.html">
+<title><![CDATA[Ride needed: Minneapolis to Milwaukee (11/21) and back (11/25) (MN/WI)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3388921528.html</link>
+<description><![CDATA[I am looking for a ride from the Twin Cities to Milwaukee on Wednesday, November 21, and then from Milwaukee to the Twin Cities on Sunday, November 25. Happy to split the cost of gas and help with driving as needed (valid driver's license, perfect dr [...]]]></description>
+<dc:date>2012-11-05T15:01:10-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3388921528.html</dc:source>
+<dc:title><![CDATA[Ride needed: Minneapolis to Milwaukee (11/21) and back (11/25) (MN/WI)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-05T15:01:10-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3388674334.html">
+<title><![CDATA[Ride to Saint Cloud before 4 PM (Spring Park)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3388674334.html</link>
+<description><![CDATA[I have $40 in gas for the first person who can drive me from Spring Park, MN to St. Cloud, MN. I MUST be there before 4:00 PM today!!]]></description>
+<dc:date>2012-11-05T13:30:31-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3388674334.html</dc:source>
+<dc:title><![CDATA[Ride to Saint Cloud before 4 PM (Spring Park)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-05T13:30:31-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/ram/rid/3388568649.html">
+<title><![CDATA[Going to Duluth Friday]]></title>
+<link>http://minneapolis.craigslist.org/ram/rid/3388568649.html</link>
+<description><![CDATA[I am leaving for Duluth this Friday at around 4pm from St. Paul. I will then be going back down to St. Paul Monday morning, leaving Duluth at about 6am. As of right now I have 5 spaces open! Email me if you are interested! Gas money would be apprecia [...]]]></description>
+<dc:date>2012-11-05T12:53:27-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/ram/rid/3388568649.html</dc:source>
+<dc:title><![CDATA[Going to Duluth Friday]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-05T12:53:27-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3387849756.html">
+<title><![CDATA[Driving from MN to Tennessee (NE MPLS)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3387849756.html</link>
+<description><![CDATA[I am looking for someone to ride with to Tennessee and share the purchasing of gas on the way. I have no desire to come back to MN so you would have no for sure ride back to MN. I am serious and I wanna leave within the next few days to a week....I a [...]]]></description>
+<dc:date>2012-11-05T08:26:46-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3387849756.html</dc:source>
+<dc:title><![CDATA[Driving from MN to Tennessee (NE MPLS)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-05T08:26:46-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3387537242.html">
+<title><![CDATA[Headed to CA? Our dog wants to join! (Rapid City, SD)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3387537242.html</link>
+<description><![CDATA[Hello! My boyfriend and I recently moved out west and had to leave our four-legged friend at home. Now we have the ability to keep him and he's looking for a ride out - we are willing to help out on gas expenses. If you're coming this way, he's a ver [...]]]></description>
+<dc:date>2012-11-05T02:25:39-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3387537242.html</dc:source>
+<dc:title><![CDATA[Headed to CA? Our dog wants to join! (Rapid City, SD)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-05T02:25:39-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3337074603.html">
+<title><![CDATA[Ride to treasure island or mystic lake (Plymouth)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3337074603.html</link>
+<description><![CDATA[Looking to go to the casino anyone that wants to go? Will pay for gas if you're up for it!!!]]></description>
+<dc:date>2012-11-03T20:58:21-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3337074603.html</dc:source>
+<dc:title><![CDATA[Ride to treasure island or mystic lake (Plymouth)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-03T20:58:21-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3384658502.html">
+<title><![CDATA[Headed west.  Vail or Denver. 651-775-2733.  (Denver)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3384658502.html</link>
+<description><![CDATA[Lets go west. I have a truck heading west soon. Please call or text me and well finalize departure. It time to ride the snowboards. 651-775-2733]]></description>
+<dc:date>2012-11-03T16:27:25-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3384658502.html</dc:source>
+<dc:title><![CDATA[Headed west.  Vail or Denver. 651-775-2733.  (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-03T16:27:25-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3361490785.html">
+<title><![CDATA[Are you driving West(WA-OR)? Got space in your car for boxes? (Minneapolis (any location))]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3361490785.html</link>
+<description><![CDATA[hello all~ 
+moving out to nw sometime in November and looking for a way to move some of my stuff out there. Seattle-Olympia-Portland-or Eugene all would be fine. 
+Have any extra space in your car? Boxes of all weights & sizes....no space is too small [...]]]></description>
+<dc:date>2012-11-03T15:34:15-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3361490785.html</dc:source>
+<dc:title><![CDATA[Are you driving West(WA-OR)? Got space in your car for boxes? (Minneapolis (any location))]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-03T15:34:15-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3384505512.html">
+<title><![CDATA[I need a ride to Chicago Nov 13 (Downtown or Minnetonka)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3384505512.html</link>
+<description><![CDATA[Hello I am in the Lake Minnetonka area. I need a ride to Chicago on Nov. 13 or close to that date. It's possible I could be dropped off in downtown Chicago. 
+I am a professional guy, easy going, get along well with almost everyone. I'd like to help d [...]]]></description>
+<dc:date>2012-11-03T15:19:12-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3384505512.html</dc:source>
+<dc:title><![CDATA[I need a ride to Chicago Nov 13 (Downtown or Minnetonka)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-03T15:19:12-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3384260906.html">
+<title><![CDATA[Need ride to duluth on weds or thurs (mpls)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3384260906.html</link>
+<description><![CDATA[I need a ride to duluth, I have a bunch of artwork i need to bring with me so it would be good f you had trunk space. I can help with gas money. Please contact me soon if you are going to duluth. 
+thanks 
+Lindsay_]]></description>
+<dc:date>2012-11-03T13:38:31-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3384260906.html</dc:source>
+<dc:title><![CDATA[Need ride to duluth on weds or thurs (mpls)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-03T13:38:31-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3384072853.html">
+<title><![CDATA[Offering Ride to Chicago Suburbs (Maple Grove)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3384072853.html</link>
+<description><![CDATA[I will leaving Wednesday October 10 or Thursday October 11 towards Eau Claire, Madison, Rockford and ending up at St Charles, IL. Can leave either day, driving van, can only take 1. would like donation for gas, can drop off any town along I 90-94, ca [...]]]></description>
+<dc:date>2012-11-03T12:25:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3384072853.html</dc:source>
+<dc:title><![CDATA[Offering Ride to Chicago Suburbs (Maple Grove)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-03T12:25:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/ram/rid/3383949296.html">
+<title><![CDATA[St. Paul - Madison - Bloomington IL - Nashville Leaving Tues 11/07/12 (Leaving St Paul)]]></title>
+<link>http://minneapolis.craigslist.org/ram/rid/3383949296.html</link>
+<description><![CDATA[Leaving sometime Tuesday morning or early afternoon ... depends on how long the last-minute stuff takes. Planning to drive straight through with brief breaks, possibly a nap stop late at night. 
+Looking for someone to share gas and driving part or al [...]]]></description>
+<dc:date>2012-11-03T11:38:07-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/ram/rid/3383949296.html</dc:source>
+<dc:title><![CDATA[St. Paul - Madison - Bloomington IL - Nashville Leaving Tues 11/07/12 (Leaving St Paul)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-03T11:38:07-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3383931698.html">
+<title><![CDATA[Packers game or bust! (Minnesota to Wisconsin)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3383931698.html</link>
+<description><![CDATA[I'm in the car right now....driving thru Minneapolis on my way to Lombardi Stadium for tomorrow's game. If you need a lift and are on my way send me an email. 
+Family man, non smoker driving a comfortable Lincoln. Will also be returning to the Minnea [...]]]></description>
+<dc:date>2012-11-03T11:31:21-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3383931698.html</dc:source>
+<dc:title><![CDATA[Packers game or bust! (Minnesota to Wisconsin)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-03T11:31:21-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/wsh/rid/3383394505.html">
+<title><![CDATA[Need to get to Atlanta. Will drive or ride. (Hudson, WI)]]></title>
+<link>http://minneapolis.craigslist.org/wsh/rid/3383394505.html</link>
+<description><![CDATA[I need to get to Atlanta to pick up a vehicle before the end of the year. If you need a driver or a vehicle delivered to Atlanta, I am available to make the trip. 
+If you just need someone to ride with you and drive a little also, I can help some wit [...]]]></description>
+<dc:date>2012-11-03T06:27:54-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/wsh/rid/3383394505.html</dc:source>
+<dc:title><![CDATA[Need to get to Atlanta. Will drive or ride. (Hudson, WI)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-03T06:27:54-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/rid/3382338497.html">
+<title><![CDATA[Ride needed - Minneapolis to Appleton on Thu 12/6 (Minneapolis)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/rid/3382338497.html</link>
+<description><![CDATA[I'm looking for a ride from Minneapolis to Appleton. 
+Leaving December 6th returning December 9th. I am willing to negotiate on the fare price. Also I am open to being dropped off in OshKosh, Green Bay, etc...anywhere nearby Appleton. Contact me on Z [...]]]></description>
+<dc:date>2012-11-02T15:48:27-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &amp;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/rid/3382338497.html</dc:source>
+<dc:title><![CDATA[Ride needed - Minneapolis to Appleton on Thu 12/6 (Minneapolis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-11-02T15:48:27-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

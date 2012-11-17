@@ -1,0 +1,46 @@
+'''
+Responsible for making requests of craigslist
+and returning strings
+'''
+import urllib
+from xml.dom.minidom import parse, parseString
+
+
+
+def __query(city):
+    '''
+    Opens an http request with a particular city, and returns the results
+    as a string.
+    '''
+    requestURL = "http://" + city + ".craigslist.org/rid/index.rss"
+    httpConnection = urllib.urlopen(requestURL)
+    xmlstring = httpConnection.read(httpConnection)
+    return xmlstring
+
+def __parseQuery(city):
+    '''
+    Queries a city and parses the results into a 
+    '''
+    response = __query(city)
+    return parseString(response)
+
+def readQuery(city):
+    if city == 'test':
+        f = open('minneapolis.xml')
+        minneapolisString = f.read()
+        f.close()
+        dom = parseString(minneapolisString)
+    else:
+        dom = __parseQuery(city)
+    domItems = dom.getElementsByTagName('item')
+    for item in domItems:
+        title = item.getElementsByTagName('title')[0].childNodes[0].wholeText
+        print title
+        #description = item.getElementsByTagName('description')[0].childNodes[0].wholeText
+        #print description
+        #date = item.getElementsByTagName('dc:date')[0].childNodes[0].wholeText
+        #print date
+    return domItems
+
+if __name__ == '__main__':
+    items = readQuery('test')
