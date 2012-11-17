@@ -1,0 +1,48 @@
+from collections import Counter
+
+class BagOfWords():
+    '''
+    Takes as an input a list of strings
+    '''
+    @staticmethod
+    def cleanString(string):
+        string = string.lower()
+        for (l,r) in [('sfo','sanfrancisco'),
+                      ('san francisco', 'sanfrancisco'),
+                      ('la','losangeles'),
+                      ('los angeles','los algeles'),
+                      ('sb','santabarbara'),
+                      ('santa barbara','santabarbara'),
+                      ('slo','sanluisobispo'),
+                      (',',' '),
+                      ('\n',' ')]:
+            string = string.replace(l,r)
+        return string
+            
+    def __init__(self, strings):
+        self.wordCounts = Counter()
+        for string in strings:
+            string = BagOfWords.cleanString(string)
+            for word in string.split(' '):
+                self.wordCounts[word] += 1
+
+    def topWords(self):
+        keys = []
+        vals = []
+        for k,v in self.wordCounts.iteritems():
+            keys.append(k)
+            vals.append(v)
+        return keys, vals
+
+if __name__ == '__main__':
+    f = open('rawListingCSVs/sfTitle.csv')
+    fstring = f.read()
+    f.close()
+    fbag = BagOfWords([fstring])
+    d = fbag.wordCounts
+    i = 0;
+    for w in sorted(d, key=d.get, reverse=True):
+        i += 1
+        if i > 100:
+            break
+        print w, d[w]

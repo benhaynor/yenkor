@@ -1,0 +1,3 @@
+ndtr.o: ndtr.c mconf.h
+
+mconf.h:

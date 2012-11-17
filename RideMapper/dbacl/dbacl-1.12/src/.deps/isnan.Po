@@ -1,0 +1,3 @@
+isnan.o: isnan.c mconf.h
+
+mconf.h:

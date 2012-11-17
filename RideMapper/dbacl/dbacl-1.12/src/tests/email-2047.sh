@@ -1,0 +1,21 @@
+#!/bin/sh
+# test rfc2047 decoder. Came across this test case on bogofilter mailing list.
+PATH=/bin:/usr/bin
+DBACL=$TESTBIN/dbacl
+
+prerequisite_command() {
+    type $2 2>&1 > /dev/null
+    if [ 0 -ne $? ]; then
+        echo "$1: $2 not found, test will be skipped"
+        exit 77
+    fi
+}
+
+prerequisite_command $0 tr
+
+echo 'header: =?US-ASCII?Q?=3D=3FUS-ASCII=3FQ=3F=3D3D=3D3FUS-ASCII=3D3FQ=3D3Ftest=3D3F=3D3D=3F=3D?=' \
+    | $DBACL -R -D -T email -T email:xheaders \
+    | grep header \
+    | sed 's/^/"/;s/$/"/' \
+    | xargs test 'header: =?US-ASCII?Q?=3D=3FUS-ASCII=3FQ=3Ftest=3F=3D?=' =
+

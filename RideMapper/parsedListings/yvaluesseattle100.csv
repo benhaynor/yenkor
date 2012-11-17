@@ -1,0 +1,31 @@
+from,to,departureDate,isDriver
+seattle,tri cities,2012-11-17 00:00:00,True
+seattle,portland,2012-11-20 00:00:00,False
+seattle,spokane,2012-11-20 00:00:00,False
+invalid,invalid,2012-11-01 00:00:00,False
+seattle,eugene,2012-11-18 00:00:00,False
+seattle,bellingham,2012-11-16 00:00:00,True
+invalid,invalid,2012-11-01 00:00:00,False
+seattle,boise,2012-11-20 00:00:00,False
+seattle,portland,2012-11-17 00:00:00,False
+seattle,portland,2012-11-17 00:00:00,True
+seattle,vancouver,2012-11-17 00:00:00,True
+seattle,montana,2012-11-16 00:00:00,True
+seattle,eugene,2012-11-21 00:00:00,True
+olympia,seattle,2012-11-16 00:00:00,False
+seattle,california,2012-11-16 00:00:00,False
+seattle,san diego,2012-11-19 00:00:00,True
+redmond,bellingham,2012-11-16 00:00:00,True
+seattle,spokane,2012-11-16 00:00:00,False
+seattle,portland,2012-11-16 00:00:00,True
+seattle,california,2012-11-21 00:00:00,True
+seattle,santa cruz,2012-11-20 00:00:00,True
+seattle,minneapolis,2012-11-16 00:00:00,True
+seattle,wenatchee,2012-11-16 00:00:00,True
+seattle,boise,2012-11-23 00:00:00,True
+invalid,invalid,2012-11-01 00:00:00,False
+olympia,bellingham,2012-11-16 00:00:00,False
+olympia,seatac,2012-11-20 00:00:00,False
+seattle,tri cities,2012-11-18 00:00:00,False
+seattle,ocean shores,2012-11-16 00:00:00,True
+billings,seattle,2012-11-21 00:00:00,True

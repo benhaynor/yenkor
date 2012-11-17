@@ -49,7 +49,8 @@ def readQuery(city):
         #Get the reply to field
         #Currently commented out, due to speed issues.
         #TODO: Change this to work
-        if (False):
+        if (True):
+            print i
             permalinkPage = urllib.urlopen(permalink)
             permalinkHTML = permalinkPage.read()
             permalinkPage.close()

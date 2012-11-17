@@ -1,0 +1,3 @@
+igam.o: igam.c mconf.h
+
+mconf.h:

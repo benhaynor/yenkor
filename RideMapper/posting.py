@@ -2,23 +2,48 @@ import datetime
 import pickle
 import re
 import operator
+import csv
 from collections import Counter
 
 def keyWithMaxVal(d):
-     """ a) create a list of the dict's keys and values; 
-         b) return the key with the max value"""  
-     v=list(d.values())
-     k=list(d.keys())
-     return k[v.index(max(v))]
+    """ a) create a list of the dict's keys and values; 
+    b) return the key with the max value"""  
+    v=list(d.values())
+    k=list(d.keys())
+    return k[v.index(max(v))]
 
 class Postings:
     '''
     Stores an array of Posting objects
     '''
+    
+    def writeToCSV(self,outFileName):
+	'''
+        Writes to raw file.
+        '''
+        with open('rawListingCSVs/' + outFileName, 'wb') as csvfile:
+            csvwriter = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL)
+            csvwriter.writerow(Posting.headerFields)
+            for p in self.postings:
+                csvwriter.writerow(p.asCSVRow())
+
+    @staticmethod
+    def readFromCSV(inFileName):
+        '''
+        Reads a CSV of raw posting objects. 
+        '''
+        postings = []
+        with open('rawListingCSVs/' + inFileName, 'rb') as csvfile:
+            csvreader = csv.reader(csvfile)
+            for i, row in enumerate(csvreader):
+                if i > 0:
+                    postings.append(Posting.createFromCSV(row))
+        
+        return Postings(postings)
 
     def __init__(self,postings):
         self.postings = postings
-
+        
     def __str__(self):
         strRep = ''
         for p in self.postings:
@@ -26,7 +51,13 @@ class Postings:
         return strRep
 
 class Posting:
-    
+
+    #Static variables
+    headerFields = ['title','postingFrom',
+                    'permalink','shortDescription',
+                    'postingDate','mailToLink']
+
+
     def __init__(self,postingFrom,title,permalink,shortDescription,
                  postingDate,mailToLink):
         '''
@@ -44,15 +75,45 @@ class Posting:
         self.permalink = permalink
         self.shortDescription = shortDescription.lower()
         self.postingDate = postingDate
-        self.parsedPostingDate = Posting.__parseDate(postingDate)
         self.mailToLink = mailToLink
+        self.computeFields()
+        
+    def computeFields(self):
+        '''
+        Computes the csv fields.
+        '''
+        self.parsedPostingDate = Posting.__parseDate(self.postingDate)
         self.wordBag = Counter()
         for word in self.title.split(' '):
             self.wordBag[word] += 1
         for word in self.shortDescription.split(' '):
             self.wordBag[word] += 1
 
+        
+    def asCSVRow(self):
+        '''
+        Returns an array of all the fields to be stored in the CSV file.
+        Allows the parsedPosting object to be created from CSV.
+        '''
+        return [self.title,self.postingFrom,
+                self.permalink,self.shortDescription,
+                self.postingDate,self.mailToLink]
+    
+    @staticmethod
+    def createFromCSV(csvRow):
+        '''
+        Reads from a file
+        '''
+        title = csvRow[0]
+        postingFrom = csvRow[1]
+        permalink = csvRow[2]
+        shortDescription = csvRow[3]
+        postingDate = csvRow[4]
+        mailToLink = csvRow[5]
+        return Posting(postingFrom,title,permalink,shortDescription,
+                       postingDate,mailToLink)
 
+    
     @staticmethod
     def __parseDate(postingDate):
         year = int(postingDate[0:4])
@@ -93,8 +154,8 @@ class Posting:
         '''
         todayDay = self.parsedPostingDate.weekday()
         todayDate = self.parsedPostingDate.timetuple()[2]
-        if ((self.wordBag['today'] + self.wordBag['tomorrow']) > 0):
-            return todayDate if self.wordBag['today'] >= self.wordBag['tomorrow'] else todayDate + 1
+        #if ((self.wordBag['today'] + self.wordBag['tomorrow']) > 0):
+        #    return todayDate if self.wordBag['today'] >= self.wordBag['tomorrow'] else todayDate + 1
         days = ['mon', 'tues','wed','thur','fri','satur','sun']
         months = ['jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec']
         dayCounts = {day: 0 for day in days}
@@ -131,6 +192,7 @@ class Posting:
                                      self.mailToLink))
 
 class ParsedPostings:
+
     '''
     Stores a list of ParsedPostings, with methods to read, and write from file.
     as well as easily annotate things.
@@ -147,6 +209,43 @@ class ParsedPostings:
         Store a list of postings.
         '''
         self.parsedPostings = parsedPostings
+
+    @staticmethod
+    def readFromCSV(inFileName):
+        '''
+        Reads from two CSV files.
+        '''
+        with open('parsedListings/rawVersion' + outFileName, 'wb') as csvfile:
+            with open('parsedListings/yvalues' + outFileName, 'wb') as rawFile:
+                csvwriter = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL)
+                csvwriter.writerow(Posting.headerFields)
+                for p.Posting in self.parsedPostings:
+                    csvwriter.writerow(p.asCSVRow())
+ 
+ 
+            csvwriter = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL)
+            csvwriter.writerow(ParsedPosting.yvalHeaders)
+            for p in self.parsedPostings:
+                csvwriter.writerow(p.yvalCSVRow())
+        
+
+    def writeToCSV(self,outFileName):
+        with open('parsedListings/parsedVersion' + outFileName, 'wb') as csvfile:
+            csvwriter = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL)
+            csvwriter.writerow(ParsedPosting.headerFields)
+            for p in self.parsedPostings:
+                csvwriter.writerow(p.asCSVRow())
+        with open('parsedListings/rawVersion' + outFileName, 'wb') as csvfile:
+            csvwriter = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL)
+            csvwriter.writerow(Posting.headerFields)
+            for p.Posting in self.parsedPostings:
+                csvwriter.writerow(p.asCSVRow())
+        with open('parsedListings/yvalues' + outFileName, 'wb') as csvfile:
+            csvwriter = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL)
+            csvwriter.writerow(ParsedPosting.yvalHeaders)
+            for p in self.parsedPostings:
+                csvwriter.writerow(p.yvalCSVRow())
+            
 
     def dump(self, outFileName):
         ''' Pickles the list'''
@@ -240,6 +339,7 @@ class ParsedPosting:
     leaving from, going to, date.  Should be using inheritance
     but I'm not going to bother right now.
     '''
+        
     def __str__(self):
         outStr = self.posting.__str__()
         outStr += '\ndriver :' + str(self.driver)
@@ -324,6 +424,30 @@ class ParsedPosting:
         self.goingTo = goingTo
         self.leavingOn = leavingOn
         self.driver = driver
+
+    headerFields = ['from','to',
+                    'departureDate','postingID',
+                    'replyto','isDriver',
+                    'title','body']
+    
+    yvalHeaders = ['from','to','departureDate','isDriver']
+
+    def yvalCSVRow(self):
+        '''
+        Prints all the predicted variables.  I'll want help reading more.
+        '''
+        return [self.leavingFrom, self.goingTo,
+                self.leavingOn, self.driver]
+
+    def asCSVRow(self):
+        '''
+        Returns an array of fields in a particular order
+        to be sent to a CSV file
+        '''
+        return [self.leavingFrom, self.goingTo,
+                self.leavingOn,self.posting.permalink,
+                self.posting.mailToLink, self.driver,
+                self.posting.title,self.posting.shortDescription]
 
     @staticmethod
     def ParsePosting(posting):
