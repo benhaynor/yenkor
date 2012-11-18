@@ -1,0 +1,24 @@
+"offered","offering","get","around","take","pay","leaving","before","room","$","please","good","?","tomorrow","$","an","going","there","my"
+File Edit Options Buffers Tools Help                                                                                                          
+"offered","offering","get","around","take","pay","leaving","before","room","$","please","good","?","tomorrow","$","an","going","there","my"
+
+       contains(offered) = True             TRUE : FALSE  =      7.4 : 1.0
+      contains(offering) = True             TRUE : FALSE  =      7.0 : 1.0
+           contains(get) = True            FALSE : TRUE   =      5.5 : 1.0
+        contains(around) = True             TRUE : FALSE  =      5.1 : 1.0
+          contains(take) = True            FALSE : TRUE   =      4.8 : 1.0
+           contains(pay) = True            FALSE : TRUE   =      4.8 : 1.0
+       contains(leaving) = True             TRUE : FALSE  =      4.5 : 1.0
+        contains(before) = True            FALSE : TRUE   =      4.0 : 1.0
+          contains(room) = True             TRUE : FALSE  =      3.3 : 1.0
+             contains(() = False           FALSE : TRUE   =      3.3 : 1.0
+             contains()) = False           FALSE : TRUE   =      3.3 : 1.0
+        contains(please) = True            FALSE : TRUE   =      3.0 : 1.0
+          contains(good) = True            FALSE : TRUE   =      2.9 : 1.0
+             contains(?) = True             TRUE : FALSE  =      2.7 : 1.0
+      contains(tomorrow) = True             TRUE : FALSE  =      2.7 : 1.0
+             contains($) = True             TRUE : FALSE  =      2.5 : 1.0
+            contains(an) = True             TRUE : FALSE  =      2.4 : 1.0
+         contains(going) = True             TRUE : FALSE  =      2.4 : 1.0
+         contains(there) = True            FALSE : TRUE   =      2.4 : 1.0
+            contains(my) = True            FALSE : TRUE   =      2.3 : 1.0

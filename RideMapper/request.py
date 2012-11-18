@@ -2,10 +2,12 @@
 Responsible for making requests of craigslist
 and returning strings
 '''
+import sys
 import urllib
 import re
 from posting import Posting, Postings
 from xml.dom.minidom import parse, parseString
+import datetime
 
 def __query(city):
     '''
@@ -60,11 +62,13 @@ def readQuery(city):
             else:
                 mailToLink = "emailnotfound"
         else:
-            mailToLink = "emailnofound"
+            mailToLink = "emailnotfound"
         shortDescription = item.getElementsByTagName('description')[0].childNodes[0].wholeText
         postings.append(Posting(city,title,permalink,shortDescription,postingDate,mailToLink))
     postingsObject = Postings(postings)
     return postingsObject
 
 if __name__ == '__main__':
-    items = readQuery('test')
+    items = readQuery(sys.argv[1])
+    items.writeToCSV((sys.argv[1] + datetime.datetime.now().__str__() + '.csv').replace(' ',''))
+
