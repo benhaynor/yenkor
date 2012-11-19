@@ -21,7 +21,7 @@ class Postings:
 	'''
         Writes to raw file.
         '''
-        with open('rawListingCSVs/' + outFileName, 'wb') as csvfile:
+        with open(outFileName, 'wb') as csvfile:
             csvwriter = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL)
             csvwriter.writerow(Posting.headerFields)
             for p in self.postings:

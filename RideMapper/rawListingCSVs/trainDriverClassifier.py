@@ -2,6 +2,7 @@ import nltk
 import random
 from nltk import NaiveBayesClassifier
 import csv
+import os
 
 class TrainedClassifier:
     
@@ -59,8 +60,9 @@ class TrainedClassifier:
         cbodies = []
         cdrivers = []
 
-
-        with open('sfIsGood.csv', 'rb') as csvfile:
+        
+        dirname = os.path.dirname(__file__)
+        with open(os.path.join(dirname,'sfIsGood.csv'), 'rb') as csvfile:
             spamreader = csv.reader(csvfile, delimiter=',')
             i = -1
             for row in spamreader:

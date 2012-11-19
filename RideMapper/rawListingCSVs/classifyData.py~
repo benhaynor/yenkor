@@ -1,4 +1,5 @@
 from trainDriverClassifier import TrainedClassifier
+from toFinder import findTo
 import csv
 import sys
 import nltk
@@ -27,6 +28,9 @@ if __name__ == "__main__":
                     rowDoc = (nltk.word_tokenize(row[0]) + nltk.word_tokenize(row[0]))
                     #If it's a valid entry
                     if invalidClassifier.classify(rowDoc) == 'False':
-                        outwriter.writerow(row + [driverClassifier.classify(rowDoc), row[1],row[4],'not implemented'])
+                        #Find the to field
+                        to = findTo(row[0],row[3])
+                        if to:
+                            outwriter.writerow(row + [driverClassifier.classify(rowDoc), row[1],row[4],to])
                 else:
                     outwriter.writerow(row + ['driver','from','leaving','to'])
